@@ -1,13 +1,13 @@
 # Frontend Mentor - Job listings with filtering solution
 
-:point_right: This is the [Job listings with filtering](aqui va el reto de frontendmentor) challenge on Frontend Mentor.
+:point_right: This is the [Job listings with filtering](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt) challenge on Frontend Mentor.
 
 ## Overview
 
 ### Links
 
-:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](Aqui va tu solucion de frontendmentor) </br>
-:heavy_check_mark: My `Live` Site URL : [GitHub Pages](Aqui va tu solucion de github pages)
+:heavy_check_mark: My `Solution` URL : [Frontend Mentor Solution](https://www.frontendmentor.io/solutions/mobile-first-PoiwgY_NEf) </br>
+:heavy_check_mark: My `Live` Site URL : [GitHub Pages](https://alexcarmonadev.github.io/fm43_job_listings_with_filtering/)
 
 Give a ⭐️ if you like this project!
 
